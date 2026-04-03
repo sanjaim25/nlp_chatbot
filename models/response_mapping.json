@@ -1,0 +1,238 @@
+{
+  "0": {
+    "input": "what is confusion matrix",
+    "response": "A confusion matrix is a table that visualizes a model's performance by showing correct and incorrect predictions per class."
+  },
+  "1": {
+    "input": "what is a dataset",
+    "response": "A dataset is a structured collection of data, usually organized in rows and columns, used for training or evaluating models."
+  },
+  "2": {
+    "input": "what is loss function",
+    "response": "A loss function measures how far a model's predictions are from the actual values — lower is better during training."
+  },
+  "3": {
+    "input": "what is a neural network",
+    "response": "A neural network is a computational model inspired by the human brain, consisting of interconnected nodes that process data."
+  },
+  "4": {
+    "input": "what is accuracy",
+    "response": "Accuracy is a metric that measures the percentage of correct predictions made by a model out of all predictions."
+  },
+  "5": {
+    "input": "explain activation function",
+    "response": "Activation functions introduce non-linearity into neural networks, enabling them to learn complex patterns. Examples include ReLU and sigmoid."
+  },
+  "6": {
+    "input": "what is an epoch",
+    "response": "An epoch is one complete pass through the entire training dataset during model training."
+  },
+  "7": {
+    "input": "tell me about artificial intelligence",
+    "response": "Artificial Intelligence is the simulation of human intelligence in machines, enabling them to think, learn, and problem-solve."
+  },
+  "8": {
+    "input": "what is your favorite color",
+    "response": "As an AI, I don't have preferences — but if I did, I'd probably choose neural-network blue! 🔵"
+  },
+  "9": {
+    "input": "what is bert",
+    "response": "BERT stands for Bidirectional Encoder Representations from Transformers — a pre-trained NLP model developed by Google."
+  },
+  "10": {
+    "input": "what is backpropagation",
+    "response": "Backpropagation is an algorithm used to train neural networks by computing gradients and adjusting weights to minimize loss."
+  },
+  "11": {
+    "input": "what is a batch size",
+    "response": "Batch size refers to the number of training samples used in one iteration before the model's parameters are updated."
+  },
+  "12": {
+    "input": "explain chatbots",
+    "response": "Chatbots are AI programs designed to simulate conversations with humans, often used in customer service, education, or entertainment."
+  },
+  "13": {
+    "input": "what is data science",
+    "response": "Data science is an interdisciplinary field that uses statistics, programming, and domain knowledge to extract insights from data."
+  },
+  "14": {
+    "input": "what is deep learning",
+    "response": "Deep learning is a subset of machine learning that uses neural networks with multiple layers to learn representations of data."
+  },
+  "15": {
+    "input": "tell me something interesting",
+    "response": "Did you know? The first chatbot, ELIZA, was created in 1966 and simulated a psychotherapist by pattern-matching user responses!"
+  },
+  "16": {
+    "input": "what is dropout",
+    "response": "Dropout is a regularization technique that randomly deactivates neurons during training to prevent overfitting."
+  },
+  "17": {
+    "input": "what is gpt",
+    "response": "GPT stands for Generative Pre-trained Transformer — a language model developed by OpenAI capable of generating human-like text."
+  },
+  "18": {
+    "input": "good evening",
+    "response": "Good evening! How was your day?"
+  },
+  "19": {
+    "input": "good morning",
+    "response": "Good morning! Hope you're having a great day!"
+  },
+  "20": {
+    "input": "bye",
+    "response": "Goodbye! Feel free to come back anytime. Have a great day!"
+  },
+  "21": {
+    "input": "what is gradient descent",
+    "response": "Gradient descent is an optimization algorithm that iteratively updates model parameters to minimize the loss function."
+  },
+  "22": {
+    "input": "hello",
+    "response": "Hello! How can I help you today?"
+  },
+  "23": {
+    "input": "hi",
+    "response": "Hi there! What can I do for you?"
+  },
+  "24": {
+    "input": "what can you do",
+    "response": "I can have conversations, answer questions, and assist you with various topics!"
+  },
+  "25": {
+    "input": "what is the weather",
+    "response": "I don't have access to live weather data, but you can check a weather website or app for that!"
+  },
+  "26": {
+    "input": "what time is it",
+    "response": "I don't have access to real-time data, but you can check the clock on your device!"
+  },
+  "27": {
+    "input": "do you have feelings",
+    "response": "I don't have emotions like humans, but I'm designed to be friendly and helpful!"
+  },
+  "28": {
+    "input": "how does this chatbot work",
+    "response": "I use a neural network trained on conversational data! I preprocess your input, encode it, and generate a response using deep learning."
+  },
+  "29": {
+    "input": "who created you",
+    "response": "I was created as part of an NLP and Deep Learning project to demonstrate conversational AI techniques!"
+  },
+  "30": {
+    "input": "can you learn",
+    "response": "I was trained on conversational data! Within this deployment, I respond based on what I learned during training."
+  },
+  "31": {
+    "input": "who are you",
+    "response": "I'm NeuralBot, a chatbot trained using NLP and deep learning techniques."
+  },
+  "32": {
+    "input": "what is your name",
+    "response": "I'm NeuralBot, an AI chatbot built with deep learning!"
+  },
+  "33": {
+    "input": "are you a robot",
+    "response": "I'm an AI chatbot — not quite a robot, but I do process information like one!"
+  },
+  "34": {
+    "input": "are you smart",
+    "response": "I'm as smart as my training data allows! Deep learning helps me understand context and generate meaningful responses."
+  },
+  "35": {
+    "input": "how are you",
+    "response": "I'm doing great, thanks for asking! How about you?"
+  },
+  "36": {
+    "input": "what is lstm",
+    "response": "LSTM stands for Long Short-Term Memory — a type of recurrent neural network designed to learn long-term dependencies in sequences."
+  },
+  "37": {
+    "input": "what is machine learning",
+    "response": "Machine learning is a type of AI that learns patterns from data to make predictions or decisions."
+  },
+  "38": {
+    "input": "what is your purpose",
+    "response": "My purpose is to demonstrate how NLP and deep learning can be used to build conversational AI systems!"
+  },
+  "39": {
+    "input": "can you speak other languages",
+    "response": "My training data is in English, so I work best in English. Multi-language support could be added with more training!"
+  },
+  "40": {
+    "input": "what is nlp",
+    "response": "NLP stands for Natural Language Processing — it's the field of AI that helps computers understand and generate human language."
+  },
+  "41": {
+    "input": "explain overfitting",
+    "response": "Overfitting occurs when a model learns the training data too well, including noise, causing poor performance on new data."
+  },
+  "42": {
+    "input": "what is the meaning of life",
+    "response": "Philosophers have debated this for centuries! Many believe it's about finding purpose, connection, and happiness."
+  },
+  "43": {
+    "input": "what is precision and recall",
+    "response": "Precision is the ratio of true positives to all predicted positives. Recall is the ratio of true positives to all actual positives."
+  },
+  "44": {
+    "input": "what is pytorch",
+    "response": "PyTorch is a deep learning framework developed by Facebook, known for its dynamic computation graphs and ease of use."
+  },
+  "45": {
+    "input": "what is python",
+    "response": "Python is a powerful, easy-to-read programming language widely used in data science, AI, and web development."
+  },
+  "46": {
+    "input": "what is rnn",
+    "response": "RNN stands for Recurrent Neural Network — a type of neural network designed for sequential data like text or time series."
+  },
+  "47": {
+    "input": "what is reinforcement learning",
+    "response": "Reinforcement learning is a type of ML where an agent learns by interacting with an environment and receiving rewards or penalties."
+  },
+  "48": {
+    "input": "how do i learn programming",
+    "response": "Start with a language like Python, practice daily, build projects, and use resources like tutorials and coding challenges!"
+  },
+  "49": {
+    "input": "what is supervised learning",
+    "response": "Supervised learning is a type of ML where models are trained on labeled data — each input is paired with the correct output."
+  },
+  "50": {
+    "input": "help me",
+    "response": "Sure! Just tell me what you need help with."
+  },
+  "51": {
+    "input": "what is tensorflow",
+    "response": "TensorFlow is an open-source deep learning framework developed by Google for building and training ML models."
+  },
+  "52": {
+    "input": "what is f1 score",
+    "response": "The F1 score is the harmonic mean of precision and recall, balancing both metrics into a single performance measure."
+  },
+  "53": {
+    "input": "what is transformer",
+    "response": "The Transformer is a deep learning architecture based on self-attention mechanisms, widely used in modern NLP models like BERT and GPT."
+  },
+  "54": {
+    "input": "what is tokenization",
+    "response": "Tokenization is the process of splitting text into smaller units called tokens, like words or characters, for NLP processing."
+  },
+  "55": {
+    "input": "what is unsupervised learning",
+    "response": "Unsupervised learning involves finding patterns in data without labels — like clustering or dimensionality reduction."
+  },
+  "56": {
+    "input": "tell me a joke",
+    "response": "Why do programmers prefer dark mode? Because light attracts bugs! 😄"
+  },
+  "57": {
+    "input": "what is embedding",
+    "response": "Word embeddings are dense vector representations of words that capture their semantic meaning in a continuous vector space."
+  },
+  "58": {
+    "input": "thanks",
+    "response": "You're welcome! Is there anything else I can help you with?"
+  }
+}

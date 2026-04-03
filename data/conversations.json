@@ -1,0 +1,310 @@
+[
+  {"input": "hello", "response": "Hello! How can I help you today?"},
+  {"input": "hi there", "response": "Hello! How can I help you today?"},
+  {"input": "howdy", "response": "Hello! How can I help you today?"},
+  {"input": "greetings", "response": "Hello! How can I help you today?"},
+  {"input": "hello there", "response": "Hello! How can I help you today?"},
+
+  {"input": "hi", "response": "Hi there! What can I do for you?"},
+  {"input": "hey", "response": "Hi there! What can I do for you?"},
+  {"input": "hey there", "response": "Hi there! What can I do for you?"},
+  {"input": "yo", "response": "Hi there! What can I do for you?"},
+  {"input": "hiya", "response": "Hi there! What can I do for you?"},
+
+  {"input": "good morning", "response": "Good morning! Hope you're having a great day!"},
+  {"input": "morning", "response": "Good morning! Hope you're having a great day!"},
+  {"input": "good morning to you", "response": "Good morning! Hope you're having a great day!"},
+  {"input": "rise and shine", "response": "Good morning! Hope you're having a great day!"},
+
+  {"input": "good evening", "response": "Good evening! How was your day?"},
+  {"input": "good night", "response": "Good evening! How was your day?"},
+  {"input": "evening", "response": "Good evening! How was your day?"},
+  {"input": "good afternoon", "response": "Good evening! How was your day?"},
+
+  {"input": "how are you", "response": "I'm doing great, thanks for asking! How about you?"},
+  {"input": "how are you doing", "response": "I'm doing great, thanks for asking! How about you?"},
+  {"input": "how do you do", "response": "I'm doing great, thanks for asking! How about you?"},
+  {"input": "how have you been", "response": "I'm doing great, thanks for asking! How about you?"},
+  {"input": "are you okay", "response": "I'm doing great, thanks for asking! How about you?"},
+
+  {"input": "what is your name", "response": "I'm NeuralBot, an AI chatbot built with deep learning!"},
+  {"input": "what are you called", "response": "I'm NeuralBot, an AI chatbot built with deep learning!"},
+  {"input": "tell me your name", "response": "I'm NeuralBot, an AI chatbot built with deep learning!"},
+  {"input": "what should i call you", "response": "I'm NeuralBot, an AI chatbot built with deep learning!"},
+
+  {"input": "who are you", "response": "I'm NeuralBot, a chatbot trained using NLP and deep learning techniques."},
+  {"input": "what are you", "response": "I'm NeuralBot, a chatbot trained using NLP and deep learning techniques."},
+  {"input": "describe yourself", "response": "I'm NeuralBot, a chatbot trained using NLP and deep learning techniques."},
+  {"input": "tell me about yourself", "response": "I'm NeuralBot, a chatbot trained using NLP and deep learning techniques."},
+
+  {"input": "what can you do", "response": "I can have conversations, answer questions, and assist you with various topics!"},
+  {"input": "what are your capabilities", "response": "I can have conversations, answer questions, and assist you with various topics!"},
+  {"input": "what do you do", "response": "I can have conversations, answer questions, and assist you with various topics!"},
+  {"input": "how can you help me", "response": "I can have conversations, answer questions, and assist you with various topics!"},
+  {"input": "what are you able to do", "response": "I can have conversations, answer questions, and assist you with various topics!"},
+
+  {"input": "help me", "response": "Sure! Just tell me what you need help with."},
+  {"input": "i need help", "response": "Sure! Just tell me what you need help with."},
+  {"input": "can you help me", "response": "Sure! Just tell me what you need help with."},
+  {"input": "help", "response": "Sure! Just tell me what you need help with."},
+  {"input": "assist me", "response": "Sure! Just tell me what you need help with."},
+
+  {"input": "what is machine learning", "response": "Machine learning is a type of AI that learns patterns from data to make predictions or decisions."},
+  {"input": "explain machine learning", "response": "Machine learning is a type of AI that learns patterns from data to make predictions or decisions."},
+  {"input": "define machine learning", "response": "Machine learning is a type of AI that learns patterns from data to make predictions or decisions."},
+  {"input": "what does machine learning mean", "response": "Machine learning is a type of AI that learns patterns from data to make predictions or decisions."},
+  {"input": "tell me about machine learning", "response": "Machine learning is a type of AI that learns patterns from data to make predictions or decisions."},
+
+  {"input": "what is deep learning", "response": "Deep learning is a subset of machine learning that uses neural networks with multiple layers to learn representations of data."},
+  {"input": "explain deep learning", "response": "Deep learning is a subset of machine learning that uses neural networks with multiple layers to learn representations of data."},
+  {"input": "define deep learning", "response": "Deep learning is a subset of machine learning that uses neural networks with multiple layers to learn representations of data."},
+  {"input": "what does deep learning mean", "response": "Deep learning is a subset of machine learning that uses neural networks with multiple layers to learn representations of data."},
+  {"input": "tell me about deep learning", "response": "Deep learning is a subset of machine learning that uses neural networks with multiple layers to learn representations of data."},
+
+  {"input": "what is nlp", "response": "NLP stands for Natural Language Processing — it's the field of AI that helps computers understand and generate human language."},
+  {"input": "explain nlp", "response": "NLP stands for Natural Language Processing — it's the field of AI that helps computers understand and generate human language."},
+  {"input": "what is natural language processing", "response": "NLP stands for Natural Language Processing — it's the field of AI that helps computers understand and generate human language."},
+  {"input": "define nlp", "response": "NLP stands for Natural Language Processing — it's the field of AI that helps computers understand and generate human language."},
+  {"input": "what is NLP in AI", "response": "NLP stands for Natural Language Processing — it's the field of AI that helps computers understand and generate human language."},
+
+  {"input": "tell me about artificial intelligence", "response": "Artificial Intelligence is the simulation of human intelligence in machines, enabling them to think, learn, and problem-solve."},
+  {"input": "what is artificial intelligence", "response": "Artificial Intelligence is the simulation of human intelligence in machines, enabling them to think, learn, and problem-solve."},
+  {"input": "explain artificial intelligence", "response": "Artificial Intelligence is the simulation of human intelligence in machines, enabling them to think, learn, and problem-solve."},
+  {"input": "what is AI", "response": "Artificial Intelligence is the simulation of human intelligence in machines, enabling them to think, learn, and problem-solve."},
+  {"input": "define artificial intelligence", "response": "Artificial Intelligence is the simulation of human intelligence in machines, enabling them to think, learn, and problem-solve."},
+
+  {"input": "what is a neural network", "response": "A neural network is a computational model inspired by the human brain, consisting of interconnected nodes that process data."},
+  {"input": "explain neural network", "response": "A neural network is a computational model inspired by the human brain, consisting of interconnected nodes that process data."},
+  {"input": "define neural network", "response": "A neural network is a computational model inspired by the human brain, consisting of interconnected nodes that process data."},
+  {"input": "what are neural networks", "response": "A neural network is a computational model inspired by the human brain, consisting of interconnected nodes that process data."},
+  {"input": "how does a neural network work", "response": "A neural network is a computational model inspired by the human brain, consisting of interconnected nodes that process data."},
+
+  {"input": "explain chatbots", "response": "Chatbots are AI programs designed to simulate conversations with humans, often used in customer service, education, or entertainment."},
+  {"input": "what is a chatbot", "response": "Chatbots are AI programs designed to simulate conversations with humans, often used in customer service, education, or entertainment."},
+  {"input": "define chatbot", "response": "Chatbots are AI programs designed to simulate conversations with humans, often used in customer service, education, or entertainment."},
+  {"input": "how do chatbots work", "response": "Chatbots are AI programs designed to simulate conversations with humans, often used in customer service, education, or entertainment."},
+
+  {"input": "what is python", "response": "Python is a powerful, easy-to-read programming language widely used in data science, AI, and web development."},
+  {"input": "tell me about python", "response": "Python is a powerful, easy-to-read programming language widely used in data science, AI, and web development."},
+  {"input": "explain python", "response": "Python is a powerful, easy-to-read programming language widely used in data science, AI, and web development."},
+  {"input": "what is python programming", "response": "Python is a powerful, easy-to-read programming language widely used in data science, AI, and web development."},
+
+  {"input": "what is tensorflow", "response": "TensorFlow is an open-source deep learning framework developed by Google for building and training ML models."},
+  {"input": "explain tensorflow", "response": "TensorFlow is an open-source deep learning framework developed by Google for building and training ML models."},
+  {"input": "tell me about tensorflow", "response": "TensorFlow is an open-source deep learning framework developed by Google for building and training ML models."},
+  {"input": "what is tf", "response": "TensorFlow is an open-source deep learning framework developed by Google for building and training ML models."},
+
+  {"input": "what is pytorch", "response": "PyTorch is a deep learning framework developed by Facebook, known for its dynamic computation graphs and ease of use."},
+  {"input": "explain pytorch", "response": "PyTorch is a deep learning framework developed by Facebook, known for its dynamic computation graphs and ease of use."},
+  {"input": "tell me about pytorch", "response": "PyTorch is a deep learning framework developed by Facebook, known for its dynamic computation graphs and ease of use."},
+  {"input": "what is torch", "response": "PyTorch is a deep learning framework developed by Facebook, known for its dynamic computation graphs and ease of use."},
+
+  {"input": "bye", "response": "Goodbye! Feel free to come back anytime. Have a great day!"},
+  {"input": "goodbye", "response": "Goodbye! Feel free to come back anytime. Have a great day!"},
+  {"input": "see you later", "response": "Goodbye! Feel free to come back anytime. Have a great day!"},
+  {"input": "take care", "response": "Goodbye! Feel free to come back anytime. Have a great day!"},
+  {"input": "farewell", "response": "Goodbye! Feel free to come back anytime. Have a great day!"},
+  {"input": "see you", "response": "Goodbye! Feel free to come back anytime. Have a great day!"},
+
+  {"input": "thanks", "response": "You're welcome! Is there anything else I can help you with?"},
+  {"input": "thank you", "response": "You're welcome! Is there anything else I can help you with?"},
+  {"input": "thanks a lot", "response": "You're welcome! Is there anything else I can help you with?"},
+  {"input": "many thanks", "response": "You're welcome! Is there anything else I can help you with?"},
+  {"input": "thank you so much", "response": "You're welcome! Is there anything else I can help you with?"},
+
+  {"input": "what is the weather", "response": "I don't have access to live weather data, but you can check a weather website or app for that!"},
+  {"input": "how is the weather", "response": "I don't have access to live weather data, but you can check a weather website or app for that!"},
+  {"input": "what is the weather today", "response": "I don't have access to live weather data, but you can check a weather website or app for that!"},
+  {"input": "will it rain today", "response": "I don't have access to live weather data, but you can check a weather website or app for that!"},
+
+  {"input": "tell me a joke", "response": "Why do programmers prefer dark mode? Because light attracts bugs! 😄"},
+  {"input": "say a joke", "response": "Why do programmers prefer dark mode? Because light attracts bugs! 😄"},
+  {"input": "make me laugh", "response": "Why do programmers prefer dark mode? Because light attracts bugs! 😄"},
+  {"input": "give me a joke", "response": "Why do programmers prefer dark mode? Because light attracts bugs! 😄"},
+  {"input": "do you know any jokes", "response": "Why do programmers prefer dark mode? Because light attracts bugs! 😄"},
+
+  {"input": "are you a robot", "response": "I'm an AI chatbot — not quite a robot, but I do process information like one!"},
+  {"input": "are you human", "response": "I'm an AI chatbot — not quite a robot, but I do process information like one!"},
+  {"input": "are you real", "response": "I'm an AI chatbot — not quite a robot, but I do process information like one!"},
+  {"input": "are you an AI", "response": "I'm an AI chatbot — not quite a robot, but I do process information like one!"},
+
+  {"input": "do you have feelings", "response": "I don't have emotions like humans, but I'm designed to be friendly and helpful!"},
+  {"input": "do you feel emotions", "response": "I don't have emotions like humans, but I'm designed to be friendly and helpful!"},
+  {"input": "can you feel", "response": "I don't have emotions like humans, but I'm designed to be friendly and helpful!"},
+  {"input": "do you have emotions", "response": "I don't have emotions like humans, but I'm designed to be friendly and helpful!"},
+
+  {"input": "what is the meaning of life", "response": "Philosophers have debated this for centuries! Many believe it's about finding purpose, connection, and happiness."},
+  {"input": "what is the purpose of life", "response": "Philosophers have debated this for centuries! Many believe it's about finding purpose, connection, and happiness."},
+  {"input": "why do we exist", "response": "Philosophers have debated this for centuries! Many believe it's about finding purpose, connection, and happiness."},
+  {"input": "what is life", "response": "Philosophers have debated this for centuries! Many believe it's about finding purpose, connection, and happiness."},
+
+  {"input": "how do i learn programming", "response": "Start with a language like Python, practice daily, build projects, and use resources like tutorials and coding challenges!"},
+  {"input": "how to learn programming", "response": "Start with a language like Python, practice daily, build projects, and use resources like tutorials and coding challenges!"},
+  {"input": "how do i start coding", "response": "Start with a language like Python, practice daily, build projects, and use resources like tutorials and coding challenges!"},
+  {"input": "how to learn coding", "response": "Start with a language like Python, practice daily, build projects, and use resources like tutorials and coding challenges!"},
+  {"input": "i want to learn programming", "response": "Start with a language like Python, practice daily, build projects, and use resources like tutorials and coding challenges!"},
+
+  {"input": "what is data science", "response": "Data science is an interdisciplinary field that uses statistics, programming, and domain knowledge to extract insights from data."},
+  {"input": "explain data science", "response": "Data science is an interdisciplinary field that uses statistics, programming, and domain knowledge to extract insights from data."},
+  {"input": "define data science", "response": "Data science is an interdisciplinary field that uses statistics, programming, and domain knowledge to extract insights from data."},
+  {"input": "what does a data scientist do", "response": "Data science is an interdisciplinary field that uses statistics, programming, and domain knowledge to extract insights from data."},
+
+  {"input": "explain overfitting", "response": "Overfitting occurs when a model learns the training data too well, including noise, causing poor performance on new data."},
+  {"input": "what is overfitting", "response": "Overfitting occurs when a model learns the training data too well, including noise, causing poor performance on new data."},
+  {"input": "define overfitting", "response": "Overfitting occurs when a model learns the training data too well, including noise, causing poor performance on new data."},
+  {"input": "what causes overfitting", "response": "Overfitting occurs when a model learns the training data too well, including noise, causing poor performance on new data."},
+
+  {"input": "what is a dataset", "response": "A dataset is a structured collection of data, usually organized in rows and columns, used for training or evaluating models."},
+  {"input": "explain dataset", "response": "A dataset is a structured collection of data, usually organized in rows and columns, used for training or evaluating models."},
+  {"input": "define dataset", "response": "A dataset is a structured collection of data, usually organized in rows and columns, used for training or evaluating models."},
+  {"input": "what is data", "response": "A dataset is a structured collection of data, usually organized in rows and columns, used for training or evaluating models."},
+
+  {"input": "what is accuracy", "response": "Accuracy is a metric that measures the percentage of correct predictions made by a model out of all predictions."},
+  {"input": "explain accuracy in machine learning", "response": "Accuracy is a metric that measures the percentage of correct predictions made by a model out of all predictions."},
+  {"input": "define accuracy", "response": "Accuracy is a metric that measures the percentage of correct predictions made by a model out of all predictions."},
+  {"input": "what does accuracy mean in ml", "response": "Accuracy is a metric that measures the percentage of correct predictions made by a model out of all predictions."},
+
+  {"input": "what is loss function", "response": "A loss function measures how far a model's predictions are from the actual values — lower is better during training."},
+  {"input": "explain loss function", "response": "A loss function measures how far a model's predictions are from the actual values — lower is better during training."},
+  {"input": "define loss function", "response": "A loss function measures how far a model's predictions are from the actual values — lower is better during training."},
+  {"input": "what is a loss", "response": "A loss function measures how far a model's predictions are from the actual values — lower is better during training."},
+
+  {"input": "what is backpropagation", "response": "Backpropagation is an algorithm used to train neural networks by computing gradients and adjusting weights to minimize loss."},
+  {"input": "explain backpropagation", "response": "Backpropagation is an algorithm used to train neural networks by computing gradients and adjusting weights to minimize loss."},
+  {"input": "define backpropagation", "response": "Backpropagation is an algorithm used to train neural networks by computing gradients and adjusting weights to minimize loss."},
+  {"input": "how does backpropagation work", "response": "Backpropagation is an algorithm used to train neural networks by computing gradients and adjusting weights to minimize loss."},
+
+  {"input": "what is gradient descent", "response": "Gradient descent is an optimization algorithm that iteratively updates model parameters to minimize the loss function."},
+  {"input": "explain gradient descent", "response": "Gradient descent is an optimization algorithm that iteratively updates model parameters to minimize the loss function."},
+  {"input": "define gradient descent", "response": "Gradient descent is an optimization algorithm that iteratively updates model parameters to minimize the loss function."},
+  {"input": "how does gradient descent work", "response": "Gradient descent is an optimization algorithm that iteratively updates model parameters to minimize the loss function."},
+
+  {"input": "what is an epoch", "response": "An epoch is one complete pass through the entire training dataset during model training."},
+  {"input": "explain epoch", "response": "An epoch is one complete pass through the entire training dataset during model training."},
+  {"input": "define epoch in machine learning", "response": "An epoch is one complete pass through the entire training dataset during model training."},
+  {"input": "what does epoch mean", "response": "An epoch is one complete pass through the entire training dataset during model training."},
+
+  {"input": "what is a batch size", "response": "Batch size refers to the number of training samples used in one iteration before the model's parameters are updated."},
+  {"input": "explain batch size", "response": "Batch size refers to the number of training samples used in one iteration before the model's parameters are updated."},
+  {"input": "define batch size", "response": "Batch size refers to the number of training samples used in one iteration before the model's parameters are updated."},
+  {"input": "what does batch size mean", "response": "Batch size refers to the number of training samples used in one iteration before the model's parameters are updated."},
+
+  {"input": "what is tokenization", "response": "Tokenization is the process of splitting text into smaller units called tokens, like words or characters, for NLP processing."},
+  {"input": "explain tokenization", "response": "Tokenization is the process of splitting text into smaller units called tokens, like words or characters, for NLP processing."},
+  {"input": "define tokenization", "response": "Tokenization is the process of splitting text into smaller units called tokens, like words or characters, for NLP processing."},
+  {"input": "what is a token in NLP", "response": "Tokenization is the process of splitting text into smaller units called tokens, like words or characters, for NLP processing."},
+
+  {"input": "what is embedding", "response": "Word embeddings are dense vector representations of words that capture their semantic meaning in a continuous vector space."},
+  {"input": "explain word embedding", "response": "Word embeddings are dense vector representations of words that capture their semantic meaning in a continuous vector space."},
+  {"input": "what is word embedding", "response": "Word embeddings are dense vector representations of words that capture their semantic meaning in a continuous vector space."},
+  {"input": "define embedding", "response": "Word embeddings are dense vector representations of words that capture their semantic meaning in a continuous vector space."},
+
+  {"input": "what is lstm", "response": "LSTM stands for Long Short-Term Memory — a type of recurrent neural network designed to learn long-term dependencies in sequences."},
+  {"input": "explain lstm", "response": "LSTM stands for Long Short-Term Memory — a type of recurrent neural network designed to learn long-term dependencies in sequences."},
+  {"input": "what is long short term memory", "response": "LSTM stands for Long Short-Term Memory — a type of recurrent neural network designed to learn long-term dependencies in sequences."},
+  {"input": "define lstm", "response": "LSTM stands for Long Short-Term Memory — a type of recurrent neural network designed to learn long-term dependencies in sequences."},
+
+  {"input": "what is rnn", "response": "RNN stands for Recurrent Neural Network — a type of neural network designed for sequential data like text or time series."},
+  {"input": "explain rnn", "response": "RNN stands for Recurrent Neural Network — a type of neural network designed for sequential data like text or time series."},
+  {"input": "what is recurrent neural network", "response": "RNN stands for Recurrent Neural Network — a type of neural network designed for sequential data like text or time series."},
+  {"input": "define rnn", "response": "RNN stands for Recurrent Neural Network — a type of neural network designed for sequential data like text or time series."},
+
+  {"input": "what is transformer", "response": "The Transformer is a deep learning architecture based on self-attention mechanisms, widely used in modern NLP models like BERT and GPT."},
+  {"input": "explain transformer model", "response": "The Transformer is a deep learning architecture based on self-attention mechanisms, widely used in modern NLP models like BERT and GPT."},
+  {"input": "what is the transformer architecture", "response": "The Transformer is a deep learning architecture based on self-attention mechanisms, widely used in modern NLP models like BERT and GPT."},
+  {"input": "define transformer in AI", "response": "The Transformer is a deep learning architecture based on self-attention mechanisms, widely used in modern NLP models like BERT and GPT."},
+
+  {"input": "what is bert", "response": "BERT stands for Bidirectional Encoder Representations from Transformers — a pre-trained NLP model developed by Google."},
+  {"input": "explain bert", "response": "BERT stands for Bidirectional Encoder Representations from Transformers — a pre-trained NLP model developed by Google."},
+  {"input": "define bert model", "response": "BERT stands for Bidirectional Encoder Representations from Transformers — a pre-trained NLP model developed by Google."},
+  {"input": "what is google bert", "response": "BERT stands for Bidirectional Encoder Representations from Transformers — a pre-trained NLP model developed by Google."},
+
+  {"input": "what is gpt", "response": "GPT stands for Generative Pre-trained Transformer — a language model developed by OpenAI capable of generating human-like text."},
+  {"input": "explain gpt", "response": "GPT stands for Generative Pre-trained Transformer — a language model developed by OpenAI capable of generating human-like text."},
+  {"input": "define gpt", "response": "GPT stands for Generative Pre-trained Transformer — a language model developed by OpenAI capable of generating human-like text."},
+  {"input": "what is openai gpt", "response": "GPT stands for Generative Pre-trained Transformer — a language model developed by OpenAI capable of generating human-like text."},
+
+  {"input": "how does this chatbot work", "response": "I use a neural network trained on conversational data! I preprocess your input, encode it, and generate a response using deep learning."},
+  {"input": "how do you work", "response": "I use a neural network trained on conversational data! I preprocess your input, encode it, and generate a response using deep learning."},
+  {"input": "how were you built", "response": "I use a neural network trained on conversational data! I preprocess your input, encode it, and generate a response using deep learning."},
+  {"input": "explain how you work", "response": "I use a neural network trained on conversational data! I preprocess your input, encode it, and generate a response using deep learning."},
+
+  {"input": "can you learn", "response": "I was trained on conversational data! Within this deployment, I respond based on what I learned during training."},
+  {"input": "do you learn", "response": "I was trained on conversational data! Within this deployment, I respond based on what I learned during training."},
+  {"input": "are you learning", "response": "I was trained on conversational data! Within this deployment, I respond based on what I learned during training."},
+  {"input": "can you improve", "response": "I was trained on conversational data! Within this deployment, I respond based on what I learned during training."},
+
+  {"input": "what is your purpose", "response": "My purpose is to demonstrate how NLP and deep learning can be used to build conversational AI systems!"},
+  {"input": "why were you created", "response": "My purpose is to demonstrate how NLP and deep learning can be used to build conversational AI systems!"},
+  {"input": "what is the point of you", "response": "My purpose is to demonstrate how NLP and deep learning can be used to build conversational AI systems!"},
+  {"input": "what do you exist for", "response": "My purpose is to demonstrate how NLP and deep learning can be used to build conversational AI systems!"},
+
+  {"input": "what time is it", "response": "I don't have access to real-time data, but you can check the clock on your device!"},
+  {"input": "what is the time", "response": "I don't have access to real-time data, but you can check the clock on your device!"},
+  {"input": "tell me the time", "response": "I don't have access to real-time data, but you can check the clock on your device!"},
+  {"input": "current time", "response": "I don't have access to real-time data, but you can check the clock on your device!"},
+
+  {"input": "tell me something interesting", "response": "Did you know? The first chatbot, ELIZA, was created in 1966 and simulated a psychotherapist by pattern-matching user responses!"},
+  {"input": "share a fun fact", "response": "Did you know? The first chatbot, ELIZA, was created in 1966 and simulated a psychotherapist by pattern-matching user responses!"},
+  {"input": "say something interesting", "response": "Did you know? The first chatbot, ELIZA, was created in 1966 and simulated a psychotherapist by pattern-matching user responses!"},
+  {"input": "give me a fun fact", "response": "Did you know? The first chatbot, ELIZA, was created in 1966 and simulated a psychotherapist by pattern-matching user responses!"},
+
+  {"input": "what is your favorite color", "response": "As an AI, I don't have preferences — but if I did, I'd probably choose neural-network blue! 🔵"},
+  {"input": "do you have a favorite color", "response": "As an AI, I don't have preferences — but if I did, I'd probably choose neural-network blue! 🔵"},
+  {"input": "what color do you like", "response": "As an AI, I don't have preferences — but if I did, I'd probably choose neural-network blue! 🔵"},
+
+  {"input": "can you speak other languages", "response": "My training data is in English, so I work best in English. Multi-language support could be added with more training!"},
+  {"input": "do you speak other languages", "response": "My training data is in English, so I work best in English. Multi-language support could be added with more training!"},
+  {"input": "what languages do you speak", "response": "My training data is in English, so I work best in English. Multi-language support could be added with more training!"},
+  {"input": "are you multilingual", "response": "My training data is in English, so I work best in English. Multi-language support could be added with more training!"},
+
+  {"input": "are you smart", "response": "I'm as smart as my training data allows! Deep learning helps me understand context and generate meaningful responses."},
+  {"input": "are you intelligent", "response": "I'm as smart as my training data allows! Deep learning helps me understand context and generate meaningful responses."},
+  {"input": "how smart are you", "response": "I'm as smart as my training data allows! Deep learning helps me understand context and generate meaningful responses."},
+
+  {"input": "who created you", "response": "I was created as part of an NLP and Deep Learning project to demonstrate conversational AI techniques!"},
+  {"input": "who made you", "response": "I was created as part of an NLP and Deep Learning project to demonstrate conversational AI techniques!"},
+  {"input": "who built you", "response": "I was created as part of an NLP and Deep Learning project to demonstrate conversational AI techniques!"},
+  {"input": "who developed you", "response": "I was created as part of an NLP and Deep Learning project to demonstrate conversational AI techniques!"},
+
+  {"input": "what is supervised learning", "response": "Supervised learning is a type of ML where models are trained on labeled data — each input is paired with the correct output."},
+  {"input": "explain supervised learning", "response": "Supervised learning is a type of ML where models are trained on labeled data — each input is paired with the correct output."},
+  {"input": "define supervised learning", "response": "Supervised learning is a type of ML where models are trained on labeled data — each input is paired with the correct output."},
+  {"input": "what does supervised learning mean", "response": "Supervised learning is a type of ML where models are trained on labeled data — each input is paired with the correct output."},
+
+  {"input": "what is unsupervised learning", "response": "Unsupervised learning involves finding patterns in data without labels — like clustering or dimensionality reduction."},
+  {"input": "explain unsupervised learning", "response": "Unsupervised learning involves finding patterns in data without labels — like clustering or dimensionality reduction."},
+  {"input": "define unsupervised learning", "response": "Unsupervised learning involves finding patterns in data without labels — like clustering or dimensionality reduction."},
+
+  {"input": "what is reinforcement learning", "response": "Reinforcement learning is a type of ML where an agent learns by interacting with an environment and receiving rewards or penalties."},
+  {"input": "explain reinforcement learning", "response": "Reinforcement learning is a type of ML where an agent learns by interacting with an environment and receiving rewards or penalties."},
+  {"input": "define reinforcement learning", "response": "Reinforcement learning is a type of ML where an agent learns by interacting with an environment and receiving rewards or penalties."},
+  {"input": "how does reinforcement learning work", "response": "Reinforcement learning is a type of ML where an agent learns by interacting with an environment and receiving rewards or penalties."},
+
+  {"input": "explain activation function", "response": "Activation functions introduce non-linearity into neural networks, enabling them to learn complex patterns. Examples include ReLU and sigmoid."},
+  {"input": "what is an activation function", "response": "Activation functions introduce non-linearity into neural networks, enabling them to learn complex patterns. Examples include ReLU and sigmoid."},
+  {"input": "define activation function", "response": "Activation functions introduce non-linearity into neural networks, enabling them to learn complex patterns. Examples include ReLU and sigmoid."},
+  {"input": "what is relu", "response": "Activation functions introduce non-linearity into neural networks, enabling them to learn complex patterns. Examples include ReLU and sigmoid."},
+
+  {"input": "what is dropout", "response": "Dropout is a regularization technique that randomly deactivates neurons during training to prevent overfitting."},
+  {"input": "explain dropout", "response": "Dropout is a regularization technique that randomly deactivates neurons during training to prevent overfitting."},
+  {"input": "define dropout in neural networks", "response": "Dropout is a regularization technique that randomly deactivates neurons during training to prevent overfitting."},
+  {"input": "what does dropout do", "response": "Dropout is a regularization technique that randomly deactivates neurons during training to prevent overfitting."},
+
+  {"input": "what is precision and recall", "response": "Precision is the ratio of true positives to all predicted positives. Recall is the ratio of true positives to all actual positives."},
+  {"input": "explain precision and recall", "response": "Precision is the ratio of true positives to all predicted positives. Recall is the ratio of true positives to all actual positives."},
+  {"input": "define precision and recall", "response": "Precision is the ratio of true positives to all predicted positives. Recall is the ratio of true positives to all actual positives."},
+  {"input": "what is precision in ml", "response": "Precision is the ratio of true positives to all predicted positives. Recall is the ratio of true positives to all actual positives."},
+
+  {"input": "what is f1 score", "response": "The F1 score is the harmonic mean of precision and recall, balancing both metrics into a single performance measure."},
+  {"input": "explain f1 score", "response": "The F1 score is the harmonic mean of precision and recall, balancing both metrics into a single performance measure."},
+  {"input": "define f1 score", "response": "The F1 score is the harmonic mean of precision and recall, balancing both metrics into a single performance measure."},
+  {"input": "what is the f1 metric", "response": "The F1 score is the harmonic mean of precision and recall, balancing both metrics into a single performance measure."},
+
+  {"input": "what is confusion matrix", "response": "A confusion matrix is a table that visualizes a model's performance by showing correct and incorrect predictions per class."},
+  {"input": "explain confusion matrix", "response": "A confusion matrix is a table that visualizes a model's performance by showing correct and incorrect predictions per class."},
+  {"input": "define confusion matrix", "response": "A confusion matrix is a table that visualizes a model's performance by showing correct and incorrect predictions per class."},
+  {"input": "what does a confusion matrix show", "response": "A confusion matrix is a table that visualizes a model's performance by showing correct and incorrect predictions per class."},
+
+  {"input": "default", "response": "I'm not sure I understand that. Could you rephrase your question? I'm still learning!"}
+]
